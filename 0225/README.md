@@ -12,3 +12,10 @@ https://learn.microsoft.com/ja-jp/dotnet/api/system.windows.forms?view=windowsde
 
 http://kaitei.net/csforms/
 
+- Visual Studio ドキュメント
+
+https://learn.microsoft.com/ja-jp/visualstudio/ide/?view=vs-2022
+
+- フォームデザイナーの使い方
+
+https://atmarkit.itmedia.co.jp/ait/articles/1704/21/news018_4.html
